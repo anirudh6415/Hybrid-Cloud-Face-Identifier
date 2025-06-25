@@ -1,4 +1,4 @@
-# Hybrid-Cloud-Face-Identifier-System
+# Hybrid-Cloud-Face-Identifier
 
 A serverless, hybrid-cloud pipeline for detecting and matching faces in video streams using OpenFaaS functions, AWS S3, and DynamoDB (with optional Ceph).
 
